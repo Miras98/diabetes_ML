@@ -38,18 +38,20 @@ This can help in early detection and preventive healthcare strategies.
 - Identified **outliers and anomalies**  
 
 ## 🤖 **Machine Learning Models Used**  
-Several classification models were tested to find the best-performing one:  
-✅ **Logistic Regression**  
+
 ✅ **Random Forest Classifier**  
-✅ **Support Vector Machine (SVM)**  
-✅ **K-Nearest Neighbors (KNN)**  
 
 **Performance Metrics Evaluated:**  
 - **Accuracy**
 - **Precision, Recall, F1-score**
-- **ROC-AUC Curve**
+
 
 ## 🚀 **Results & Findings**  
-- The best model achieved **X% accuracy** on test data.  
+- The model achieved **76% accuracy** on test data.  
 - Feature importance analysis showed **Glucose and BMI** had the highest impact on predictions.  
-- Imbalanced data was handled using **oversampling/undersampling techniques**.  
+
+![regplot](https://github.com/user-attachments/assets/67a2046f-1115-42b1-bc1d-fd022b9f8a4c)
+
+![BMI](https://github.com/user-attachments/assets/de3b62cb-43e8-467e-9104-cb005c0299b7)
+
+
