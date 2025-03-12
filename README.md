@@ -39,14 +39,14 @@ This can help in early detection and preventive healthcare strategies.
 
 ## **Machine Learning Models Used**  
 
-✅ **Random Forest Classifier**  
+ **Random Forest Classifier**  
 
 **Performance Metrics Evaluated:**  
 - **Accuracy**
 - **Precision, Recall, F1-score**
 
 
-## 🚀 **Results & Findings**  
+## **Results & Findings**  
 - The model achieved **76% accuracy** on test data.  
 - Feature importance analysis showed **Glucose and BMI** had the highest impact on predictions.  
 
